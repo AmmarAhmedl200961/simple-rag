@@ -101,4 +101,4 @@ Thinking...
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details (if you choose to add one).
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
