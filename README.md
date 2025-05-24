@@ -31,9 +31,9 @@ The project is organized as follows:
 
 Follow these steps to set up and run the RAG assistant locally:
 
-1.  **Clone the Repository** (Assuming you will host this on GitHub):
+1.  **Clone the Repository**:
     ```bash
-    git clone <your-repository-url>
+    git clone AmmarAhmedl200961/simple-rag
     cd rag_assistant
     ```
 
