@@ -274,8 +274,8 @@ Reusable utility functions for file operations, logging, and other common tasks,
 
 **Clone and Navigate to Repository**
 ```bash
-git clone <repository-url>
-cd rag_assistant-w1
+git clone AmmarAhmedl200961/simple-rag
+cd simple-rag
 ```
 
 **Create Virtual Environment**
